@@ -2,6 +2,8 @@
 
 ###Esse FAQ pertence ao seguinte grupo:
 
+https://chat.whatsapp.com/LDYDusVhH1kHb8iYgfh3ky
+
 
 You can use the [editor on GitHub](https://github.com/vinicioscardosodeoliveira/arquitetosnairlanda/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
