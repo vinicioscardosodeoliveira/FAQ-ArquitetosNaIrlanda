@@ -1,4 +1,4 @@
-## LEIA ANTES DE PERGUNTAR
+LEIA ANTES DE PERGUNTAR
 
 You can use the [editor on GitHub](https://github.com/vinicioscardosodeoliveira/arquitetosnairlanda/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
