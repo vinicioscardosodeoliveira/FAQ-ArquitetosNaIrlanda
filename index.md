@@ -1,8 +1,9 @@
-###LEIA ANTES DE PERGUNTAR
+# LEIA ANTES DE PERGUNTAR
 
-###Esse FAQ pertence ao seguinte grupo:
+Esse FAQ pertence aos seguintes grupos:
 
-https://chat.whatsapp.com/LDYDusVhH1kHb8iYgfh3ky
+* [WhatsApp - Arquitetos Na Irlanda](https://chat.whatsapp.com/LDYDusVhH1kHb8iYgfh3ky)
+
 
 
 You can use the [editor on GitHub](https://github.com/vinicioscardosodeoliveira/arquitetosnairlanda/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
